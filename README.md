@@ -14,7 +14,7 @@
 7. Веб-приложение для внесения и отслеживания трудозатрат работником
 8. Реализовать панель управления для робота-манипулятора на [three.js](https://threejs.org/examples/#webgl_loader_collada_kinematics) *
 9. AR-профайл с распознаванием лица. [Пример реализации](https://www.youtube.com/watch?v=yIImVW9m2lY)
-10. 3D модель-аватар пользователя с трекингом движений (поз) с камеры ( Можно использовать [Blender Api](https://docs.blender.org/api/current/index.html) и [mediapipe](https://google.github.io/mediapipe/))
+10. 3D модель-аватар пользователя с трекингом движений (поз) с камеры ( Можно использовать [Blender Api](https://docs.blender.org/api/current/index.html) и [mediapipe](https://google.github.io/mediapipe/)) (Трофимов Кирилл, R3180)
 11. Игра по типу [Galaga](https://ru.wikipedia.org/wiki/Galaga), где звездолет управляется жестами (перемещением руки и жест для выстрела) 
 12. Веб-портал для услуг механообработки (размещение заказа, предложения услуг)
 13. Игра [«спойлер»](https://www.mosigra.ru/spoiler/rules/) с [Aruco метками](https://docs.opencv.org/3.4/d5/dae/tutorial_aruco_detection.html)
