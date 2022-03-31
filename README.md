@@ -14,7 +14,7 @@
 7. Веб-приложение для внесения и отслеживания трудозатрат работником (Куркиев Магомед R3180)
 8. Реализовать панель управления для робота-манипулятора на [three.js](https://threejs.org/examples/#webgl_loader_collada_kinematics) * (Феоктистов Матвей R3180) 
 9. AR-профайл с распознаванием лица. [Пример реализации](https://www.youtube.com/watch?v=yIImVW9m2lY) (Харьковской Роман, Тихонов Владимир, Барило Виктор, Журкина Владислава, Владислав Крыжко - R3180)
-10. 3D модель-аватар пользователя с трекингом движений (поз) с камеры ( Можно использовать [Blender Api](https://docs.blender.org/api/current/index.html) и [mediapipe](https://google.github.io/mediapipe/)) (Трофимов Кирилл, R3180)
+10. 3D модель-аватар пользователя с трекингом движений (поз) с камеры ( Можно использовать [Blender Api](https://docs.blender.org/api/current/index.html) и [mediapipe](https://google.github.io/mediapipe/)) (Трофимов Кирилл, R3180) [Репозиторий проекта](https://github.com/belousgm/term-project)
 11. Игра по типу [Galaga](https://ru.wikipedia.org/wiki/Galaga), где звездолет управляется жестами (перемещением руки и жест для выстрела) 
 12. Веб-портал для услуг механообработки (размещение заказа, предложения услуг)(Рангулов Данила, Зверс Марк R3181)
 13. Игра [«спойлер»](https://www.mosigra.ru/spoiler/rules/) с [Aruco метками](https://docs.opencv.org/3.4/d5/dae/tutorial_aruco_detection.html)
