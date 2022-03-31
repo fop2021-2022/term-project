@@ -5,7 +5,7 @@
 3. Оценивание проекта будет проводиться в соответствии с требованиями
 
 ### Список тем
-1. Создать навык Алисы [Python API](https://yandex.ru/dev/dialogs/alice/doc/quickstart-python.html) (Гусевская Арина, Фомин Валентин - R3180)
+1. Создать навык Алисы [Python API](https://yandex.ru/dev/dialogs/alice/doc/quickstart-python.html) (Гусевская Арина, Фомин Валентин - R3180) [Проект](https://github.com/GusyLebedy/term-project)
 2. Создать генератор отчетов на базе [таблицы](https://docs.google.com/spreadsheets/d/1Ihgj00Kplp9a1FfOWidmWuYk-V4e5maF3qH72sozJ0g/edit?usp=sharing) с прошлого семестра(Романовский Даниэль, Чучва Виктор, Дьячихин Данила - R3180)
 3. Панель в КОМПАС 3D Python API для создания эскизов из векторных изображений svg [похожее по с растровыми](https://www.youtube.com/watch?v=a-bPY6oCj48)
 4. Генератор зубчатых колес в Fusion 360 Python API
