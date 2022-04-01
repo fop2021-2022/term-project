@@ -12,7 +12,7 @@
 5. Поиск контуров на картинке (с камеры) и сохранение контуров в вектороное изображение svg (Нестеренко, Панфилова, Резанцева, Прохорова, Филиппов R3181 https://github.com/nem1sha/term-project.git)
 6. Цветная карта, отображающая [рейтинг счастья](https://www.kaggle.com/unsdsn/world-happiness?select=2019.csv) по странам и годам (Чан Ван Тхай R3181)
 7. Веб-приложение для внесения и отслеживания трудозатрат работником (Куркиев Магомед R3180)
-8. Реализовать панель управления для робота-манипулятора на [three.js](https://threejs.org/examples/#webgl_loader_collada_kinematics) * (Феоктистов Матвей R3180) 
+8. Реализовать панель управления для робота-манипулятора на [three.js](https://threejs.org/examples/#webgl_loader_collada_kinematics) * (Феоктистов Матвей R3180) [репозиторий](https://github.com/MatveyFeok/project) 
 9. AR-профайл с распознаванием лица. [Пример реализации](https://www.youtube.com/watch?v=yIImVW9m2lY) (Харьковской Роман, Тихонов Владимир, Барило Виктор, Журкина Владислава, Владислав Крыжко - R3180. [Наш чудесный репозиторий](https://github.com/rrrrrroman/term_project))
 10. 3D модель-аватар пользователя с трекингом движений (поз) с камеры ( Можно использовать [Blender Api](https://docs.blender.org/api/current/index.html) и [mediapipe](https://google.github.io/mediapipe/)) (Трофимов Кирилл, R3180) [Репозиторий проекта](https://github.com/belousgm/term-project)
 11. Игра по типу [Galaga](https://ru.wikipedia.org/wiki/Galaga), где звездолет управляется жестами (перемещением руки и жест для выстрела) 
