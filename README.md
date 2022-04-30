@@ -14,13 +14,13 @@
 7. Веб-приложение для внесения и отслеживания трудозатрат работником (Куркиев Магомед R3180)
 8. Реализовать панель управления для робота-манипулятора на [three.js](https://threejs.org/examples/#webgl_loader_collada_kinematics) * (Феоктистов Матвей R3180) [репозиторий](https://github.com/MatveyFeok/project) 
 9. AR-профайл с распознаванием лица. [Пример реализации](https://www.youtube.com/watch?v=yIImVW9m2lY) (Харьковской Роман, Тихонов Владимир, Барило Виктор, Журкина Владислава, Владислав Крыжко - R3180. [Наш чудесный репозиторий](https://github.com/rrrrrroman/term_project))
-10. 3D модель-аватар пользователя с трекингом движений (поз) с камеры ( Можно использовать [Blender Api](https://docs.blender.org/api/current/index.html) и [mediapipe](https://google.github.io/mediapipe/)) (Трофимов Кирилл, R3180) [Репозиторий проекта](https://github.com/belousgm/term-project)
+10. 3D модель-аватар пользователя с трекингом движений (поз) с камеры ( Можно использовать [Blender Api](https://docs.blender.org/api/current/index.html) и [mediapipe](https://google.github.io/mediapipe/))
 11. Игра по типу [Galaga](https://ru.wikipedia.org/wiki/Galaga), где звездолет управляется жестами (перемещением руки и жест для выстрела) 
 12. Веб-портал для услуг механообработки (размещение заказа, предложения услуг)(Зверс Марк R3181)
 13. Игра [«спойлер»](https://www.mosigra.ru/spoiler/rules/) с [Aruco метками](https://docs.opencv.org/3.4/d5/dae/tutorial_aruco_detection.html)
 14. Игра [«спойлер»](https://www.mosigra.ru/spoiler/rules/) в AR с распознаванием лиц
 15. Ваши темы... (Бот телеграмм, путеводитель по СПб; Коновалов Максим, Кербер Егор, Смирнова Анна, Важенин Владимир, Орёл Арсений; https://github.com/Zombie1995/SPBuildings)
-16. Анимация 3D модели по видео. Перенос трекинга движений (поз) с видео на риг персонажа в блендер. (Blender Api и mediapipe) (Мищенко Иван, R3180) [Репозиторий](https://github.com/ivanxoxol/Blender-anim-plugin)
+16. Анимация 3D модели по видео. Перенос трекинга движений (поз) с видео на риг персонажа в блендер. (Blender Api и mediapipe) (Мищенко Иван, Трофимов Кирилл R3180) [Репозиторий](https://github.com/ivanxoxol/Blender-anim-plugin)
 17. Бот телеграмм по подготовке к ЕГЭ по математике; Гладышева Таня R3181 [репозиторий](https://github.com/TanaKK13/project)
 18. Интерактивная Folium-карта; Рудык Богдан R3181,Рангулов Данила R3181
 ### Требования
