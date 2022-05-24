@@ -10,7 +10,7 @@
 3. Панель в КОМПАС 3D Python API для создания эскизов из векторных изображений svg [похожее по с растровыми](https://www.youtube.com/watch?v=a-bPY6oCj48)
 4. Генератор зубчатых колес в Fusion 360 Python API
 5. Поиск контуров на картинке (с камеры) и сохранение контуров в вектороное изображение svg (Нестеренко, Панфилова, Резанцева, Прохорова, Филиппов R3181 [НАШ РЕПОЗИТОРИЙ](https://github.com/nem1sha/term-project)
-6. Цветная карта, отображающая [рейтинг счастья](https://www.kaggle.com/unsdsn/world-happiness?select=2019.csv) по странам и годам (Чан Ван Тхай R3181)[репозиторий](https://github.com/tranvanthai3008/World-Happiness-Report1)
+6. Цветная карта, отображающая [рейтинг счастья](https://www.kaggle.com/unsdsn/world-happiness?select=2019.csv) по странам и годам (Чан Ван Тхай R3181)[репозиторий]([https://github.com/tranvanthai3008/World-Happiness-Report1](https://github.com/tranvanthai3008/World-Happiness-Report-main))
 7. Веб-приложение для внесения и отслеживания трудозатрат работником (Куркиев Магомед R3180)
 8. Реализовать панель управления для робота-манипулятора на [three.js](https://threejs.org/examples/#webgl_loader_collada_kinematics) * (Феоктистов Матвей R3180) [репозиторий](https://github.com/MatveyFeok/project) 
 9. AR-профайл с распознаванием лица. [Пример реализации](https://www.youtube.com/watch?v=yIImVW9m2lY) (Харьковской Роман, Тихонов Владимир, Барило Виктор, Журкина Владислава, Владислав Крыжко - R3180. [Наш чудесный репозиторий](https://github.com/rrrrrroman/term_project))
